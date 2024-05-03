@@ -28,7 +28,7 @@ function loadState() {
     land.innerHTML = `<div class="crop">
     <img
     id="state-image"
-    src="/images/matan-levanon-_Ipv1Ms0-uQ-unsplash.jpg"
+    src="images/matan-levanon-_Ipv1Ms0-uQ-unsplash.jpg"
     alt="Road heading towards the Badlands in South Dakota"
     />
     </div>`
